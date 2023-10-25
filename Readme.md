@@ -31,6 +31,6 @@ npm install opencv-python
 
 ## Sample Output
 
-![image](https://media.githubusercontent.com/media/Sahilgr8/Face-Recognition/main/Output%20Sample/Sample%20Output.jpg?token=AQTWB2RTIYECYWGZZ5OLZRDFHE2EY)
+![image](https://github.com/Sahilgr8/Real-Time-Face-Recognition/blob/main/Output%20Sample/Sample%20Output.jpg)
 
 
